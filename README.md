@@ -19,3 +19,4 @@ Let's practice some common shell piping operations
 2.  Pipe this to a file by using "echo 'hi' > hello.txt"
 3.  Now run `ls` to verify it exists
 4.  count the words in the file `cat hello.txt | wc -w`
+5.  How many did you count?
